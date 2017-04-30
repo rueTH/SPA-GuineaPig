@@ -1,0 +1,29 @@
+/*element.classList*/
+
+.blue {
+  color: blue;
+}
+
+.hulkify {
+  font-size: 300%;
+}
+
+.capture {
+  border: 2px solid black;
+}
+
+.rounded {
+  border-radius: 50px;
+}
+
+.boldFirst {
+  font-weight: bold;
+}
+
+.italicizeLast {
+  font-style: italic;
+}
+
+.blockify {
+  display: block;
+}
